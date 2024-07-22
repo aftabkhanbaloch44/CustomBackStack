@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BackStack</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="calendar">Events</string>
+    <string name="more">More</string>
+
+    <string name="tab1_container_tag">Tab1 Container</string>
+    <string name="tab2_container_tag">Tab2 Container</string>
+    <string name="tab3_container_tag">Tab3 Container</string>
+    <string name="tab4_container_tag">Tab4 Container</string>
+
+
+    <string name="tab1_stack_name">Tab1 Stack</string>
+    <string name="tab2_stack_name">Tab2 Stack</string>
+    <string name="tab3_stack_name">Tab3 Stack</string>
+    <string name="tab4_stack_name">Tab4 Stack</string>
+    <string name="next">NEXT</string>
+
+
+</resources>
